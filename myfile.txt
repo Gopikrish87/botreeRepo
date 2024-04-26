@@ -7,3 +7,5 @@ Ok
 testing
 
 first file modified
+
+VS modification
